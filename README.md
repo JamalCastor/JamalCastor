@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I find joy in problem-solving and think debugging is a fun challenge!**
 
+- 📄 [Check out my Resume](https://github.com/JamalCastor/resume/blob/ad454b49409db991f4d4f9f8810addab91b28095/Jamal's%20Final%20Resume.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
