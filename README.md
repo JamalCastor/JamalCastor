@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jamal Castor</h1>
 <h3 align="center">A dedicated Computer Science student and emerging software developer from Orlando, FL.</h3>
 
-- 🔭 I’m currently working on **Developing a simple calculator in C# that focuses on core arithmetic operations with a clean and intuitive interface.**
-
 - 🌱 I’m currently learning **Computer science topics, including algorithms, data structures, and system design.**
 
 - 👯 I’m looking to collaborate on **Open-source software development projects focused on data analysis and machine learning applications.**
